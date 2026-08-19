@@ -12,3 +12,12 @@ The **Student Grade Calculator** is a simple software project designed to calcul
 - Determine the student's grade.
 - Display the pass or fail status.
 - Provide a simple and easy-to-use system for grade calculation.
+
+## ✨ Features
+
+- Enter marks for multiple subjects.
+- Calculate total marks automatically.
+- Calculate average marks.
+- Assign grades based on marks.
+- Display pass or fail status.
+- Simple and user-friendly interface.
