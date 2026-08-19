@@ -44,3 +44,31 @@ Student-Grade-Calculator/
     ├── home.png
     └── result.png
 ```
+
+
+## ⚙️ Installation
+
+1. Install **Python** on your system.
+2. Clone the repository:
+
+```bash
+git clone https://github.com/namanvyas31/Student-Grade-Calculator.git
+```
+
+3. Open the project folder:
+
+```bash
+cd Student-Grade-Calculator
+```
+
+4. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+5. Run the application:
+
+```bash
+python app.py
+```
