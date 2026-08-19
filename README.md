@@ -21,3 +21,26 @@ The **Student Grade Calculator** is a simple software project designed to calcul
 - Assign grades based on marks.
 - Display pass or fail status.
 - Simple and user-friendly interface.
+
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| Python | Application logic |
+| HTML | Page structure |
+| CSS | Page styling |
+
+
+## 📁 Folder Structure
+
+```text
+Student-Grade-Calculator/
+│
+├── app.py
+├── README.md
+├── requirements.txt
+└── screenshots/
+    ├── home.png
+    └── result.png
+```
